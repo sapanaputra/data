@@ -1,2 +1,1 @@
-contoh
-apa bro
+<?php echo "hai"; ?>
